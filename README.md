@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">A passionate CS student from Romania</h3>
+![photo](https://github.com/Luc0x00/Luc0x00/blob/main/background.jpg)
+
+# About me
+
+Currently a second-year student at Babeș-Bolyai University, I’m always eager to learn and apply my knowledge in real-world projects. Whether it's creating dynamic web applications, working with databases, or implementing complex algorithms, I enjoy taking on challenges that push me to grow as a developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luc0x00&label=Profile%20views&color=0e75b6&style=flat" alt="luc0x00" /> </p>
-
-- 🔭 I’m currently working on **a Fantasy Football project**
-
-- 🌱 I’m currently learning **javascript and react**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Luc0x00](https://github.com/Luc0x00)
 
 - 📫 How to reach me **crisanlucabogdan@yahoo.com**
 
